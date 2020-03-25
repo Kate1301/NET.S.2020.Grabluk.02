@@ -1,7 +1,0 @@
-C:\Users\User\source\repos\Day_2_02\Day_2_02\bin\Debug\Day_2_02.exe.config
-C:\Users\User\source\repos\Day_2_02\Day_2_02\bin\Debug\Day_2_02.exe
-C:\Users\User\source\repos\Day_2_02\Day_2_02\bin\Debug\Day_2_02.pdb
-C:\Users\User\source\repos\Day_2_02\Day_2_02\obj\Debug\Day_2_02.csprojAssemblyReference.cache
-C:\Users\User\source\repos\Day_2_02\Day_2_02\obj\Debug\Day_2_02.csproj.CoreCompileInputs.cache
-C:\Users\User\source\repos\Day_2_02\Day_2_02\obj\Debug\Day_2_02.exe
-C:\Users\User\source\repos\Day_2_02\Day_2_02\obj\Debug\Day_2_02.pdb
